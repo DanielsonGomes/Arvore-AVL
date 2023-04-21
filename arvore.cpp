@@ -4,6 +4,7 @@
 Arvore::Arvore()
 {
   raiz=NULL;
+  
 }
 Arvore::~Arvore()
 {
